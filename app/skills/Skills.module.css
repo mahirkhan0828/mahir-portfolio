@@ -1,0 +1,51 @@
+.container {
+    max-width: 1200px;
+    margin: 4rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #141e30;
+}
+  
+.filterButtons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+.filterBtn {
+    padding: 0.5rem 1rem;
+    background: #ff7f50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s ease;
+}
+
+.filterBtn.active,
+.filterBtn:hover {
+background: #e05a33;
+}
+
+.skillsContainer {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+gap: 2rem;
+justify-items: center;
+padding: 2rem;
+}
+
+  
+@media (max-width: 768px) {
+    .skillsContainer {
+      flex-direction: column;
+      align-items: center;
+    }
+}

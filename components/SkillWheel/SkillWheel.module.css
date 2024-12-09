@@ -1,0 +1,34 @@
+.skill {
+  width: 150px;
+  margin: 2rem;
+  text-align: center;
+}
+
+.circularContainer {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.centerContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5rem;
+}
+
+.icon {
+  color: #ff7f50;
+}
+
+.skillName {
+  font-size: 1.2rem;
+  color: #141e30;
+  margin-top: 1rem;
+}
+
+.proficiencyLabel {
+  font-size: 1rem;
+  color: #555;
+}
