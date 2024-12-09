@@ -22,7 +22,7 @@ export default function About() {
             web development and full-stack applications. 
           </p>
 
-         <p className={styles.text}>When I’m not coding, you’ll find me:</p>
+         <p className={styles.text}>When I'm not coding, you'll find me:</p>
 
         <ul className={styles.text}>
           <li>🏐 Playing beach volleyball with my family on cloudy days</li>
