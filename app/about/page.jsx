@@ -18,11 +18,11 @@ export default function About() {
 
         <div className={styles.text}>
           <p>
-            Hi, I'm Mahir Khan, a junior software engineer specializing in
+            Hi, I&#39;m Mahir Khan, a junior software engineer specializing in
             web development and full-stack applications. 
           </p>
 
-         <p className={styles.text}>When I'm not coding, you'll find me:</p>
+         <p className={styles.text}>When I&#39;m not coding, you'll find me:</p>
 
         <ul className={styles.text}>
           <li>🏐 Playing beach volleyball with my family on cloudy days</li>
