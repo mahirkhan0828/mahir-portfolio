@@ -1,6 +1,6 @@
 export const skills = [
     // Languages
-    { skill: 'JavaScript', level: 90, categories: ['Languages', 'Frameworks/Libraries'] },
+    { skill: 'JavaScript', level: 90, categories: ['Languages'] },
     { skill: 'Python', level: 90, categories: ['Languages'] },
     { skill: 'SQL', level: 40, categories: ['Languages', 'Databases'] },
     { skill: 'HTML/CSS', level: 90, categories: ['Languages'] },
