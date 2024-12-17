@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## My Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website! This project showcases my professional experience, skills, and projects in web development.
 
-First, run the development server:
+## 🚀 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Portfolio Website
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📋 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Clean and modern design.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Responsive layout for seamless browsing on all devices.
 
-## Learn More
+Dynamic project showcase with detailed pages.
 
-To learn more about Next.js, take a look at the following resources:
+Interactive contact form with email notifications.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Built with the latest web technologies.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Technologies Used
 
-## Deploy on Vercel
+Frontend:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Next.js: Framework for React applications, using the new App Router.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+React: Component-based UI library.
+
+CSS Modules: Scoped CSS for styling components.
+
+HTML5 & CSS3: Semantic markup and modern design.
+
+Backend:
+
+Next.js API Routes: Serverless API for contact form submissions.
+
+Deployment:
+
+Vercel: Hosting platform for serverless deployment.
+
+Other Tools:
+
+Git & GitHub: Version control.
+
+Figma: Design mockups and wireframes.
+
+## 📬 Contact Me
+
+If you’d like to collaborate or have any questions, feel free to reach out:
+
+Email: mahirkhan0828@gmail.com
+
+LinkedIn: linkedin.com/in/mahir-khan-20776a199/
+
+GitHub: github.com/mahirkhan0828
+
+Thank you for visiting my portfolio! 🚀
